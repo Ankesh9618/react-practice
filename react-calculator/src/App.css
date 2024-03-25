@@ -1,0 +1,14 @@
+.calculator{
+    
+  background-color: peachpuff;
+    
+}
+.background{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    background: rgb(35,0,255);
+    background: radial-gradient(circle, rgba(35,0,255,1) 0%, rgba(27,4,197,1) 0%, rgba(9,9,121,1) 51%);
+}
